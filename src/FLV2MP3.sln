@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FLV2MP3", "FLV2MP3.vcproj", "{1983A1D7-FB22-48E1-B8BB-67B926F76B37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1983A1D7-FB22-48E1-B8BB-67B926F76B37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1983A1D7-FB22-48E1-B8BB-67B926F76B37}.Debug|Win32.Build.0 = Debug|Win32
+		{1983A1D7-FB22-48E1-B8BB-67B926F76B37}.Release|Win32.ActiveCfg = Release|Win32
+		{1983A1D7-FB22-48E1-B8BB-67B926F76B37}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
