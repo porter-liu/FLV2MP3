@@ -37,4 +37,4 @@ You need Visual Studio 6.0 and above to build. Will port it to Linux & Mac if I 
 License
 -------
 
-picwall is available under the MIT license.
+FLV2MP3 is available under the MIT license.
